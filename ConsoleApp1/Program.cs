@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Programp
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Interface.StartInterface();
         }
     }
 }
